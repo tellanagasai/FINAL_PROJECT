@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>True Black Coffee website</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+
+    <header>
+        <h1>TRUE BLACK COFFEE</h1>
+    </header>
+
+        <a href="#">https://www.google.com/maps/search/TRUE+BLACK+speciality+coffee/@17.4821777,78.4065283,13z/data=!3m1!4b1?entry=ttu</a>
+        <a href="#">https://www.swiggy.com/restaurants/true-black-speciality-coffee-banjara-hills-jubilee-hills-hyderabad-715013</a>
+        <a href="#">https://www.trueblack.coffee/</a>
+        <a href="#">https://www.trueblack.coffee/pages/contact</a>
+        <img src="trueblackpic.jpg" alt="trueblackcoffee" width="500" height="600">
+
+
+    <section>
+        <h2>Welcome to Our Website!</h2>
+        <p>This coffee shop in Hyderabad demonstrates how black coffee ...
+            brewmaster Rohit Rao's
+            Photographer-turned-brewmaster Rohit Rao's love for coffee began as experiments with coffee-brewing methods at home. He now runs two True Black cafes and coffee lovers are enjoying the fuss-free menu where almost every brew is a black coffee.</p>
+        <button onclick="showMessage()">Click Me!</button>
+    </section>
+    <script src="script.js"></script>
+
+</body>
+</html>
